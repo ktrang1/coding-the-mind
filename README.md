@@ -28,3 +28,17 @@ Digital health dissects the "film of daily life" into measurable, intervene-able
 
 ## Format
 The two-day workshop will consist of an open conference on the first day and closed working group session on the second day. The first day will begin with a series of presentation by the speakers, open to Emory faculty and students, and end with a poster session by students. Ample time will be built in for networking. The second day will consist of a closed session for speakers to produce recommendations for the named parameters and provide suggestions for 1-2 pilot studies, which could be funded by the Health Innovation Program or Global Health Institute at Emory, and the Marion E. Kenworthy-Sarah H. Swift Foundation.
+
+
+## License
+
+![](https://licensebuttons.net/l/by/3.0/88x31.png)
+
+All content in this repository is [openly licensed](LICENSE) under CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***. 
+
+For example, if you were to use content from the **coding the mind** project you'd attribute contributors with a sentence like:
+
+> The material presented here is partially derived from "[Coding the Mind](https://github.com/ktrang1/coding-the-mind)" developed by Kathy Trang and the Coding the Mind development team, used under CC BY 4.0.
+
+More on CC BY 4.0 licensing can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+
