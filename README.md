@@ -24,6 +24,4 @@ Digital health dissects the "film of daily life" into measurable, intervene-able
 * Design/selection of measurement technology, user analytics, and field trials to assess impact; 
 * And integration with open mHealth architecture that is sustainable, scalable, and amenable to user input; 
 
-**The online platform (codingthemind.com) will aggregate recommendations**
-
 ## Timeline
