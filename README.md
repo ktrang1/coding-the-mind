@@ -25,3 +25,6 @@ Digital health dissects the "film of daily life" into measurable, intervene-able
 * And integration with open mHealth architecture that is sustainable, scalable, and amenable to user input; 
 
 ## Timeline
+
+## Format
+The two-day workshop will consist of an open conference on the first day and closed working group session on the second day. The first day will begin with a series of presentation by the speakers, open to Emory faculty and students, and end with a poster session by students. Ample time will be built in for networking. The second day will consist of a closed session for speakers to produce recommendations for the named parameters and provide suggestions for 1-2 pilot studies, which could be funded by the Health Innovation Program or Global Health Institute at Emory, and the Marion E. Kenworthy-Sarah H. Swift Foundation.
