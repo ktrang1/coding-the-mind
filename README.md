@@ -2,6 +2,7 @@
 ## Brief Description
 Given the explosion of knowledge about psychiatric disorders, our workshop and online platform (codingthemind.org) will delineate how a cognitive sciences and neuroscience approach can inform the selection, operationalization, and design of digital health technology to intervene in processes hindering wellbeing worldwide.
 ## Background
+
 Approximately 91 percent of the world's youth live in low-and middle-income countries (LMICs), and a majority use mobile phones. The delivery of health innovation via mobile technology (mHealth) has the potential to predict and intervene in disease processes that hinder their wellbeing. Yet the absence of theoretical rigor in these efforts too often results in regression to a mechanistically agnostic black-box approach, yielding tools that are neither generalizable nor scalable. Given advances in our understanding of disease etiology and phenomenology, this workshop aims to explore how an interdisciplinary - neuroscience and cognitive science - approach can inform the selection, operationalization, and design of digital health technologies amenable to real-time monitoring, which in turn can translate to better prediction and improvement of health outcomes. 
 
 The idea for this workshop was motivated by three imperatives.  First, over 165,000 healthcare apps are currently available for consumers to directly monitor their physical and mental health {Torous:2015gx}. Their accessibility, affordability, and availability are primary reasons for the call to extend mHealth to low- and middle-income countries {Akter:2010tm, Price:2013kt, Hall:2014cc, Onnela:2016di}. For every 5,300 people in LMICs, there are 2293 mobile phones, but only 11 hospital beds {Akter:2010tm}. Health inequities are growing, as disparities in living conditions widen both within and between countries {Marmot:2012gi}. Amid escalating inequities, mHealth promises to transcend sociocultural and geographical boundaries to deliver biomedical advances to bedsides. Yet, realization of mHealth's promise is dampened by the fact that most mHealth interventions do not emerge from or feed back into our growing understanding of disease pathogenesis or how different theories of mind inform human behavior {Tomlinson:2013eu}. 
@@ -28,3 +29,9 @@ Digital health dissects the "film of daily life" into measurable, intervene-able
 
 ## Format
 The two-day workshop will consist of an open conference on the first day and closed working group session on the second day. The first day will begin with a series of presentation by the speakers, open to Emory faculty and students, and end with a poster session by students. Ample time will be built in for networking. The second day will consist of a closed session for speakers to produce recommendations for the named parameters and provide suggestions for 1-2 pilot studies, which could be funded by the Health Innovation Program or Global Health Institute at Emory, and the Marion E. Kenworthy-Sarah H. Swift Foundation.
+
+## Contributing
+We welcome collaborators and contributors of all backgrounds! To ensure a collaborative environment in which individuals are able to freely share, please first review our [Code of Conduct]( "Code of Conduct")
+
+## License
+This project is licensed by a CC-BY license. 
