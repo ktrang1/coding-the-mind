@@ -34,4 +34,4 @@ The two-day workshop will consist of an open conference on the first day and clo
 We welcome collaborators and contributors of all backgrounds! To ensure a collaborative environment in which individuals are able to freely share, please first review our [Code of Conduct]( "Code of Conduct")
 
 ## License
-This project is licensed by a CC-BY license. 
+This project is licensed by a CC-BY license. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
