@@ -23,3 +23,6 @@ GitHub has a nice set of help pages if you're looking for more information about
 
 ## Get in Touch
 If you have a question or comment, we'd love for you to [open an issue][link_issues] because that will be our fastest way of communicating, getting the answers to you, and (if necessary) making a change.
+
+## Attribution
+This Code of Conduct is adapted from the [Brain Networks in Python Contributing Guidelines](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/CONTRIBUTING.md).
