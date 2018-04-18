@@ -3,7 +3,7 @@
 Given the explosion of knowledge about psychiatric disorders, our workshop and online platform (codingthemind.org) will delineate how a cognitive sciences and neuroscience approach can inform the selection, operationalization, and design of digital health technology to intervene in processes hindering wellbeing worldwide. More information about the impetus behind this workshop and platform can be made on [Background](https://github.com/ktrang1/coding-the-mind/blob/master/BACKGROUND.md). 
 
 **The workshop will advance the field of innovative digital health by leveraging cognitive sciences and neuroscience to inform**: 
-* [Characterization of the bases of trauma response](https://github.com/ktrang1/coding-the-mind/issues/6); 
+* Characterization of the bases of trauma response; 
 * Selection of the types of technology suited for the problem specified; 
 * Selection and operationalization of key psychophysiological, cognitive, and psychological parameters for routine outcome monitoring; 
 * Determination of frequency and timing of ecological momentary assessments to discern fluctuation in key parameters, variation in cognitive and emotional processing, and looping effects meaningful for the prediction of future behavioral or clinical outcome(s) while accounting for placebo effects; 
@@ -13,10 +13,9 @@ Given the explosion of knowledge about psychiatric disorders, our workshop and o
 * And integration with open mHealth architecture that is sustainable, scalable, and amenable to user input. 
 
 **The website will advance neuroscience- and cognitive sciences-based open digital health by**: 
-* Soliciting community-based priorities for open digital health in low-and middle-income countries 
-* Cumulating recommendations advanced during the workshop and refining them through community feedback 
-* Aggregating available technologies and protocols for digital health intervention in LMICs
-* Documenting findings from interventions implemented in LMICs
+* Provide a wiki on latest advances in neuroscience and cognitive science relevant to trauma research, filterable by biomarkers, symptom clusters, and estimated cost; 
+* Aggregate available technologies and protocols (setup, analysis) for digital health interventions in trauma research; 
+* Document past implementations of open digital health protocols, detailing successes, challenges, and findings. 
 
 ## Timeline
 * March - May 2018: Partnering with community-based organizations and research institutions in LMICs
